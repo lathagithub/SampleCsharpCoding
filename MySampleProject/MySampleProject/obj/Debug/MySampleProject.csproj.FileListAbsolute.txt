@@ -4,3 +4,6 @@ D:\CsharpPrograms\MySampleProject\MySampleProject\bin\Debug\MySampleProject.pdb
 D:\CsharpPrograms\MySampleProject\MySampleProject\obj\Debug\MySampleProject.csprojResolveAssemblyReference.cache
 D:\CsharpPrograms\MySampleProject\MySampleProject\obj\Debug\MySampleProject.exe
 D:\CsharpPrograms\MySampleProject\MySampleProject\obj\Debug\MySampleProject.pdb
+C:\Users\Hema\Documents\SampleCsharpCoding\MySampleProject\MySampleProject\bin\Debug\MySampleProject.exe.config
+C:\Users\Hema\Documents\SampleCsharpCoding\MySampleProject\MySampleProject\obj\Debug\MySampleProject.exe
+C:\Users\Hema\Documents\SampleCsharpCoding\MySampleProject\MySampleProject\obj\Debug\MySampleProject.pdb
