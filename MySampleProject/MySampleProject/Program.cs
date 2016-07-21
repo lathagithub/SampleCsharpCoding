@@ -10,7 +10,7 @@ namespace MySampleProject
     {
         static void Main(string[] args)
         {
-
+            //Displaying a message in csharp
             Console.Write("display the text");
 
         }
